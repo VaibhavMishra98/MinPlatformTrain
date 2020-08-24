@@ -1,2 +1,2 @@
 # MinPlatformTrain
-https://practice.geeksforgeeks.org/problems/minimum-platforms/0
+Link: https://practice.geeksforgeeks.org/problems/minimum-platforms/0
